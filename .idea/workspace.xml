@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6032a6-933e-4e6c-bcf4-d9f2a2ade714" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change beforePath="$PROJECT_DIR$/app/controllers/file_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/file_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.FG4lsj2FY7U80c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.KZKgDDMcDa7mcfcc3b329a7632893fce52c682151219.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.LCrauuLi3LQacfcc3b329a7632893fce52c682151219.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.TAZxd3fEFQax0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.UlHtRBghkMiJ0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.UxA6XPlFdRMocfcc3b329a7632893fce52c682151219.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.hcjJnZrTlXhs0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.jCs4SdzTVAnM0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.qQqIMA5pIbTN0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.r2kdx3zpDQIL0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.uCKdrGXiccaN0c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.w8bM8ceekhy20c385478b762839d7909d5d9fbfd8246.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -34,11 +23,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="file_controller.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="file_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/file_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+            <state relative-caret-position="425">
+              <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -52,9 +61,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20180914120802_create_file_stores.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/file_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -65,8 +75,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="44" />
+    <option name="x" value="-16" />
+    <option name="y" value="62" />
     <option name="width" value="1287" />
     <option name="height" value="826" />
   </component>
@@ -93,6 +103,22 @@
             <path>
               <item name="wechat-backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="wechat-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechat-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechat-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechat-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechat-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechat-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechat-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wechat-backend" type="b2602c69:ProjectViewProjectNode" />
@@ -246,18 +272,19 @@
       <workItem from="1536924540883" duration="9079000" />
       <workItem from="1537681432991" duration="3354000" />
       <workItem from="1538185514984" duration="17000" />
-      <workItem from="1539157270067" duration="1000" />
+      <workItem from="1539157270067" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12800000" />
+    <option name="totallyTimeSpent" value="13041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="44" width="1287" height="826" extended-state="0" />
+    <frame x="-16" y="62" width="1287" height="826" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3574297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -271,7 +298,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,20 +391,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/wx6e1ee86184594b21.o6zAJsy8C8CqNspHfI3FcOrKbEH0.FG4lsj2FY7U80c385478b762839d7909d5d9fbfd8246.png" />
     <entry file="file://$PROJECT_DIR$/db/migrate/20180914120802_create_file_stores.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -389,8 +401,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/file_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="425">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
