@@ -1,7 +1,7 @@
 class FileController < ApplicationController
   protect_from_forgery :except => :index
 
-  def indx
+  def index
 
   end
 
@@ -21,6 +21,17 @@ class FileController < ApplicationController
   def download
     fileList = FileStore.all
     render json: {:fileList => fileList}
+  end
+
+  def downfile
+    origin_filename = params[:filename] || ''
+    p origin_filename
+    filename = "#{Rails.root}/public/Image/#{origin_filename}"
+    if File.exist?(filename)
+      send_file(File.join("#{Rails.root}/public/Image","#{origin_filename}"))
+    else
+      render json: {:status => 'fail', :msg => '文件不存在'}
+    end
   end
 
   class << self

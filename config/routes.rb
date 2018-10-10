@@ -23,6 +23,7 @@ Rails.application.routes.draw do
     get '/index', to: 'file#index'
     post '/upload', to: 'file#upload'
     get '/download',to: 'file#download'
+    get '/downfile/', to: 'file#downfile'
   end
 
 end
