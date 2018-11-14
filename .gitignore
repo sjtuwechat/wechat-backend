@@ -22,3 +22,8 @@
 
 .byebug_history
 /Gemfile.lock
+
+db/development.sqlite3
+log/development.log
+
+.idea/*
